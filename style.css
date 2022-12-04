@@ -1,0 +1,140 @@
+body {
+  margin: 1px;
+}
+
+.border {
+  border: solid 1px black;
+}
+
+.main {
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #c6d9f1;
+  height: 15vh;
+}
+
+td {
+  border: solid 1px black;
+}
+
+.center {
+  vertical-align: middle;
+}
+
+li {
+  text-align: center;
+}
+
+.headersign {
+  text-align: center;
+  background-color: white;
+
+  padding: 5%;
+  margin: 10%;
+}
+
+.headertext {
+  text-align: right;
+  float: right;
+  width: 75%;
+}
+
+.footer {
+  background-color: #c6d9f1;
+  height: 15vh;
+}
+
+.nlb {
+  border-left: none;
+}
+
+.nrb {
+  border-right: none;
+}
+
+.footersign {
+  text-align: center;
+  background-color: white;
+
+  padding: 5%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.second {
+  background-color: #f4cbb7;
+  height: fit-content;
+  min-height: 70vh;
+  width: 20vw;
+  text-align: left;
+}
+
+.third {
+  background-color: #a0f083;
+  height: fit-content;
+  min-height: 10vh;
+  width: 80;
+}
+
+.fifth {
+  background-color: #f4cbb7;
+  height: fit-content;
+  min-height: 60vh;
+  width: 30vw;
+}
+
+.sixth {
+  background-color: #a0f083;
+  height: fit-content;
+  min-height: 15vh;
+  width: 50vw;
+}
+
+.img_p2 {
+  margin: 5%;
+  width: 30%;
+  height: 30%;
+}
+
+.unli {
+  width: 20%;
+}
+
+.fourth {
+  background-color: white;
+  height: fit-content;
+  min-height: 45vh;
+  width: 50vw;
+}
+
+.block {
+  padding: 20px;
+}
+
+.horiz-fit-content {
+  width: 0;
+}
+
+.vert-fit-content {
+  height: 0;
+}
+
+li {
+  text-align: left;
+}
+
+.img_p4 {
+  width: 30%;
+  height: 30%;
+  margin-right: 2vw;
+}
+
+ol {
+  width: 30%;
+  margin: 0px;
+  margin-left: 25%;
+}
